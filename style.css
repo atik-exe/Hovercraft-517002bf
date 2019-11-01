@@ -1,0 +1,92 @@
+body {
+	background-color: grey;
+
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+	color: green;
+	font-size: 2em;
+}
+ul {font-size: xx-large;}
+ol {
+	font-size: xx-large;
+	color: red;
+}
+input {border-radius: 30%;}
+
+
+.poeder {
+	border: none;
+	border-radius: 50px;
+}
+
+.hoi {
+	border: none;
+	border-radius: 50px;
+}
+
+}
+
+body {
+	background: grey;
+	color: white;
+	letter-spacing: 0.05em;
+}
+
+td {
+	border: ;
+	padding: 10px;
+	background: rgba(100, 100, 100, 0.6);
+	font-size: 150%;
+	text-shadow: 1px 1px black;
+	text-align: center;
+}
+
+td:hover {
+	background-color: ;
+	width: 50px;
+	height: 50px;
+	transition: 0.2s;
+}
+
+th {
+	border: 3px solid black;
+	padding: 10px;
+	background: rgba(220, 220, 220, 1);
+	font-size: 150%;
+	width: 50px;
+	height: 50px;
+	color: black;
+	box-shadow: 0 0 10px black;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+	color: red;
+}
+
+.waterstof {
+	background: gray;
+}
+
+.metalen {
+	background: orange;
+}
+
+.aardmetalen {
+	background: rgba(255, 200, 0, 1);
+}
+
+.overgangmetalen {
+	
+
+}
